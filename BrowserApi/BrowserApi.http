@@ -1,0 +1,6 @@
+@BrowserApi_HostAddress = http://localhost:5023
+
+GET {{BrowserApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
